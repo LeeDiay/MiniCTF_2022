@@ -24,7 +24,7 @@ Còn đoạn mã phía sau chắc chắn là Base64 rồi, decode thì ra đư�
 
 Link dẫn tới 1 trang web lại có thêm thông tin:
 
-![5]([S5.png](https://github.com/LeeDiay/MiniCTF_2022/raw/main/You%20are%20noob/S5.png))
+![5](https://github.com/LeeDiay/MiniCTF_2022/raw/main/You%20are%20noob/S5.png)
 
 Khúc này, cứ ngỡ như mình đã tìm thấy đoạn còn lại của Flag, nhưng không, sau khi thử hơn 50 lần thì nó vẫn báo WA...
 Phía bên dưới còn 1 đoạn mã Base64 nữa nên mình sẽ tiếp tục nghiên cứu thêm nó, mã hóa thì ta đc 1 đường link dẫn tới 1 bức ảnh: 
