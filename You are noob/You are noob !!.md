@@ -14,7 +14,7 @@ Link dẫn tới trang cá nhân instagram của 1 hecke lỏ, hắn bảo rằn
 
 ![search](S2.png)
 
-Phần tiểu sử có chứa các đoạn mã, đoạn 173 83 80 67 84 70 123 99 52 84 95 77 51` mình đã đoán được đây là mã Decimal, decode thì ra được đoạn đầu của Flag:
+Phần tiểu sử có chứa các đoạn mã, đoạn `173 83 80 67 84 70 123 99 52 84 95 77 51` mình đã đoán được đây là mã Decimal, decode thì ra được đoạn đầu của Flag:
 
 ![search](S3.png)
 
