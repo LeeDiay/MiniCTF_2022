@@ -8,7 +8,7 @@ Tác giả đã cho ta 1 bức ảnh trông khá ngộ nghĩnh, trông khá gi�
 
 Sau khi quét thì nhận được 1 bức ảnh với 1 dòng chữ bên dưới trông có vẻ giống form Flag nhưng đã bị mã hóa
 
-![search](Quet.png)
+![search](Quet1.png)
 
 Lúc này mình mới nhớ tên Chall là ROTTOR nên chắc rằng nó có liên quan tới chìa khóa để giải mã dòng chữ kia, tra thêm 1 tí thì mình biết nó được mã hóa bằng mã ROT13
 
